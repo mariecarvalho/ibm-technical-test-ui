@@ -1,0 +1,21 @@
+.navbar-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navbar a:hover {
+    color: white;
+    text-decoration: underline;
+}

@@ -1,0 +1,24 @@
+.content form {
+    width: 420px;
+    color: hwb(0 100% 0%);
+    padding: 30px 40px;
+    margin: 30px;
+}
+
+.content h1 {
+    color: #fff;
+    font-size: 36px;
+    text-align: center;
+}
+
+.content button  {
+    margin-top: 30px;
+}
+
+.input-box input{
+    margin-top: 5px;
+}
+
+p {
+    text-align: center;
+}
